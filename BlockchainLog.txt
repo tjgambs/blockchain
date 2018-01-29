@@ -1,0 +1,225 @@
+PROCESS ZERO
+lpc-220-102:blockchain Tim$ java Blockchain 0
+Waiting for all processes to emit public keys.
+Emiting process 0 public key
+Received Process1 public key
+Received Process2 public key
+Received Process0 public key
+Available Options:
+"R <filename>": Read in a specified filename
+"V <hash,signature,threshold>": Verify the blockchain. 
+"L": List the current blockchain
+Select an option. Available options <'R','V','L'>: 
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+V ##I TYPED IN V TO VERIFY THE ENTIRE BLOCKCHAIN, CREDIT IS GIVEN AFTER EACH VERIFICATION
+Blocks 1-12 in the blockchain have been verified. Credit: P0=2,P1=2, P2=8
+V signature ##I TYPED IN V signature TO FORCE AN ERROR WITH SIGNATURES, FUNCTIONALITY HAS BEEN WRITTEN THOUGH
+Block 1 invalid: signed sha256 string does not match verifying process
+Blocks 1-12 in the blockchain have been verified. Credit: P0=2,P1=2, P2=8
+R BlockInput0.txt           
+4 records have been added to unverified blocks.
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+21.  2017-10-29.21:07:13.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2017-10-29.21:07:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2017-10-29.21:07:08.0 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2017-10-29.21:07:07.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2017-10-29.21:07:04.0 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2017-10-29.21:07:02.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2017-10-29.21:06:57.1 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2017-10-29.21:06:56.2 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2017-10-29.21:06:55.0 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+24.  2017-10-29.21:07:17.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+23.  2017-10-29.21:07:16.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2017-10-29.21:07:15.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2017-10-29.21:07:13.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2017-10-29.21:07:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2017-10-29.21:07:08.0 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2017-10-29.21:07:07.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2017-10-29.21:07:04.0 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2017-10-29.21:07:02.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2017-10-29.21:06:57.1 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2017-10-29.21:06:56.2 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2017-10-29.21:06:55.0 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+
+
+
+
+
+
+
+
+
+
+PROCESS ONE
+lpc-220-102:blockchain Tim$ java Blockchain 1
+Waiting for all processes to emit public keys.
+Emiting process 1 public key
+Received Process1 public key
+Received Process2 public key
+Received Process0 public key
+Available Options:
+"R <filename>": Read in a specified filename
+"V <hash,signature,threshold>": Verify the blockchain. 
+"L": List the current blockchain
+Select an option. Available options <'R','V','L'>: 
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+V hash ##I TYPED IN V hash TO FORCE AN ERROR WITH HASHING, FUNCTIONALITY HAS BEEN WRITTEN THOUGH
+Block 1 invalid: sha256 hash does not match.
+Block 1 invalid: signed block id does not match creating process
+Blocks 1-12 in the blockchain have been verified. Credit: P0=2,P1=2, P2=8
+R BlockInput1.txt ##I TYPED IN R BlockInput1.txt AND 4 NEW UNVERIFIED BLOCKS ARE SENT TO THE BLOCKCHAIN
+4 records have been added to unverified blocks.
+L ##AFTER READING IN MORE UNVERIEIFIED BLOCKS, WE RELIST THE BLOCKCHAIN AND WE SEE MORE RECORDS
+24.  2017-10-29.21:07:17.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+23.  2017-10-29.21:07:16.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2017-10-29.21:07:15.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2017-10-29.21:07:13.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2017-10-29.21:07:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2017-10-29.21:07:08.0 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2017-10-29.21:07:07.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2017-10-29.21:07:04.0 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2017-10-29.21:07:02.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2017-10-29.21:06:57.1 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2017-10-29.21:06:56.2 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2017-10-29.21:06:55.0 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+
+
+
+
+
+
+
+
+
+
+
+PROCESS TWO
+lpc-220-102:blockchain Tim$ java Blockchain 2
+Waiting for all processes to emit public keys.
+Emiting process 2 public key
+Received Process1 public key
+Received Process2 public key
+Received Process0 public key
+Available Options:
+"R <filename>": Read in a specified filename
+"V <hash,signature,threshold>": Verify the blockchain. 
+"L": List the current blockchain
+Select an option. Available options <'R','V','L'>: 
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+L ##I TYPED IN THE LETTER L + <enter> AND WE SEE HOW THE CURRENT BLOCKCHAIN LOOKS
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+V threshold ##I TYPED IN V threshold TO FORCE AN ERROR WITH WORK THRESHOLD, FUNCTIONALITY HAS BEEN WRITTEN THOUGH
+Block 1 invalid: SHA256 confirmed, but does not meet the work threshold
+Blocks 1-12 in the blockchain have been verified. Credit: P0=2,P1=2, P2=8
+R BlockInput2.txt ##I TYPED IN R BlockInput2.txt AND 4 NEW UNVERIFIED BLOCKS ARE SENT TO THE BLOCKCHAIN
+4 records have been added to unverified blocks.
+L ##AFTER READING IN MORE UNVERIEIFIED BLOCKS, WE RELIST THE BLOCKCHAIN AND WE SEE MORE RECORDS
+24.  2017-10-29.21:07:17.2 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+23.  2017-10-29.21:07:16.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+22.  2017-10-29.21:07:15.2 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+21.  2017-10-29.21:07:13.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+20.  2017-10-29.21:07:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+19.  2017-10-29.21:07:08.0 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+18.  2017-10-29.21:07:07.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+17.  2017-10-29.21:07:04.0 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+16.  2017-10-29.21:07:02.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+15.  2017-10-29.21:06:57.1 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+14.  2017-10-29.21:06:56.2 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+13.  2017-10-29.21:06:55.0 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+12.  2017-10-29.21:06:13.0 Joe DiMaggio 1914.11.25 111-22-3333 SoreKnees Aspirin
+11.  2017-10-29.21:06:12.2 John Kennedy 1917.05.29 333-45-6999 AddisonsDisease Steroids
+10.  2017-10-29.21:06:10.2 Bruce Lee 1940.11.27 456-789-123 SoreStomach Vicodine
+9.  2017-10-29.21:06:08.2 Sally McCutty 1970.01.01 123-456-999 Migraine Almotriptan
+8.  2017-10-29.21:06:05.1 Wayne Blaine 1942.07.07 123-45-6777 Measles CodLiverOil
+7.  2017-10-29.21:06:02.0 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Whiskey
+6.  2017-10-29.21:06:01.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia HotPeppers
+5.  2017-10-29.21:06:00.2 Helen Keller 1880.06.27 666-45-6789 Arthritis Aspirin
+4.  2017-10-29.21:05:55.1 Joe Blow 1996.03.07 123-45-6888 Smallpox Whiskey
+3.  2017-10-29.21:05:54.2 John Smith 1996.03.07 123-45-6789 Chickenpox aspirin
+2.  2017-10-29.21:05:51.2 Wei Xu 1996.03.22 123-456-333 Shingles Zovirax
+1.  2017-10-29.21:05:49.2 Rita Vita 1992.01.31 999-456-789 ObessivePersonality Ibuprofen
+

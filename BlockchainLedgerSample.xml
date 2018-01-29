@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BlockLedger>
+<blockRecord>
+    <ABlockID>32feffc5-1eec-4c16-ac75-09d5fe40933e</ABlockID>
+    <ABlockNum>0</ABlockNum>
+    <ASHA256String>aSF9WoOCB+ZnsR91Q57ahdyuJ7y+i9IW9yN40flawx8=</ASHA256String>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>45d67b39-a3c5-4f2b-983e-913be30d7ea8</ABlockID>
+    <ABlockNum>1</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>d59141871b44ecb056b786d24ef38d6153cc4f4c73be7bde74b9ed384e76fe67</ADataHash>
+    <ARandomSeedString>AtISVUdfDzadN31BT+IhdY7ngRpcM4Z+WPfe2aZSKfvQwBRhjiDcc7lt2n+BoPczxRpbaPs8pbz8gQM/aaJWwpmiQPP3b4dN1WxdMZzoAhRIIqAj2MsvgLVv9lv/3E8hhlPKlA0xY6JLPPE5Um7Z+ON87GF1jg32TdA+nKW6yI0qPWFl7lKUdXfJM18KbZQdCim42Svk5cbTdVAwi8J8G/ge5zLKLgkVOyRDVl5qjh9TdeI/paON2Bx5oAdWtfaLyGYHiWc2bUx8y0VCncgm2fdgljBiMfebPc4VcqDH6hZWGTH+oPJzCKIJADpKKXW5VYwqfzfmnvcS6UfSc6ytPA==</ARandomSeedString>
+    <ASHA256String>0000935c534f4f5239c9dfb3bc7404259e3f819f134656a01963e8802ace4b8c</ASHA256String>
+    <ASignedBlockID>Ik2aRhYPi5eOsPfj75r/T65BWdNTR18eKMVreHJgyMwSP3eKl6HluZPvaZmMGX38Mm5tbwNaWSGVgNBA+TFMo3giHM4FcHyRe1vR0x7DRPCvABdv+dTPVPOn4loTzm/96nxAGstzwfDzYgRtxhg5uDaSeedNUPSX65T/ltxKL7o=</ASignedBlockID>
+    <ASignedDataHash>iYXEZNXQ/uAp7d9T6iX9zSeLWmNF3rg9EvzZE3BlVWC+tIT1weqi6jo5sCTnjS0Ff5YSWu7q8Sq+oov4t/J6Pezf5U1qTyZx4HFv8QLwmx80xY18OGPFYA0h7TMl5NXP9Du0O2gmOwR84HmS8xQx8vmksPc7+K4kKPHCge1AkDc=</ASignedDataHash>
+    <ASignedSHA256>Hns4NaosbCagpK3rHjurpCMISVlmSZS5iTg6/KZLS5HNu/s09UqQJvVFyUk3PR0tTnhmMycT5AeJcD0ESCqGgTs0HYcdX8rNw7Gt3R4n2zyu0xhznAdORQGO124ZpMZood0ySxbolT9evsL8jWa6PgiLSxJFJ7UI8/+46vKfP7I=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:05:49.2</AVerifiedAt>
+    <FDOB>1992.01.31</FDOB>
+    <FFname>Rita</FFname>
+    <FLname>Vita</FLname>
+    <FSSNum>999-456-789</FSSNum>
+    <GDiag>ObessivePersonality</GDiag>
+    <GRx>Ibuprofen</GRx>
+    <GTreat>TryToRelax</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>3d183322-a738-40aa-a0f6-79ff42894b6f</ABlockID>
+    <ABlockNum>2</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>a53554058a3c2c03f76e08b44456d945b4321422a4989bbba6b9f4c3c879211c</ADataHash>
+    <ARandomSeedString>bn2DaQITPyKjwaleORlsG4/PXNffLfMNjCoFfhj6+nUjmE8t5eVyfghyU0PE3vwhU/s5yfjmnQ1ilVC6xrWtpgxLDQ4y3i2cEO03gf4AuAPg+B6890+wWzpL6jDXa4riLkJ8Z0U7/0V9/ngHuhC0nH/6ibJQHlDv67wXZ8chu8EzGOzDTTBWoVa7E0vC6OhNXOdGcI7kbVjOdI5ZS1LBa+kGJm3OCpWMZ+aeB1J4i8IGlHOoziBUOD9DZLbI37MQwyesQSCp8rS+ZMFeml0oKPOKojVCm5k+H3sob9rWWJBWRHBN7UCkES/CUs8/UIfE+mRea68UkXVVPjh5zwDFoA==</ARandomSeedString>
+    <ASHA256String>0000bdfdfaa9a1c36b5c43d09f077b4479318c78ae1d32c74dd057b5e218aecf</ASHA256String>
+    <ASignedBlockID>IqGodyrpfrcFy0CiGmmOd5dnaAcQh74bgjow118xt85b8Lyb87lu7DY7BIM/EkfbZFZqzlzRbORwJuSc2+jXZkJL1QbNUlIxo9p9e1v30IOGlfEkRKdd7IZNGNVR+oPh4V/ZAqEk7iMLgORfS8KFCHsfqOu0g5o49rTmnDLrSoI=</ASignedBlockID>
+    <ASignedDataHash>N69lj394D0J+8Cd5GZkFOCtneB8CyuH+I5QzTntR5bdBUavfGAg/Y+Is7aao5czbBLy10AiGrMI9MVia0mOJrv2uOTsIiISxWx5nrBpQCS8ddk6wQc4j+PuJEOk6KR9My7lHicItaxgEsew7+eNkVqOVIjkSkAkRQFVuwQVGyv8=</ASignedDataHash>
+    <ASignedSHA256>aDSDsQFDKNw5CDoOfR2C+8AX+K+x5MduPAJgkxH4PQxJw41xT5+w1gN09oVkTaNOqWxtL+gJXXYSee/rfmwWfBbadrOCJ9Vd5mrpaj5NlowafeLlMyGXEOTOWAUyibDWNQ1nPoSN7Tb7/mLufJ7i/dMVPEnjaazJ34oZKjNQKVw=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:05:51.2</AVerifiedAt>
+    <FDOB>1996.03.22</FDOB>
+    <FFname>Wei</FFname>
+    <FLname>Xu</FLname>
+    <FSSNum>123-456-333</FSSNum>
+    <GDiag>Shingles</GDiag>
+    <GRx>Zovirax</GRx>
+    <GTreat>WaitForRelief</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>9c506ea9-aa42-4b63-ab80-2a2ebe2c02e6</ABlockID>
+    <ABlockNum>3</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>d1083ce56b54951e918df10efdae25412c719e57aee2820092c848c18b9093aa</ADataHash>
+    <ARandomSeedString>0KwaxpQ5LZpgTRNVLFJG1pMwo9IJ38a84kCkOR0LU7eYSkwgnRrDiYV/jIGHxsWyRFa/7k8ON7tF9W2GufD4ywN6k8kjuPuWASd5ANdTbMqPZ60AE+ffbF62tQztF1RbcVyk1kIL0Afrv/QnRjCPrMcmWIN3Va7shncItP7JBgBIMlz5yNlIDv2mrtDWj32sheGX1JWpgrr38lHIR9fuSXG3vKe4GKB8FQqg1NkKCwEjFTd5+qH1glMiMb605V9Q2Y9GH8gePHa0aF+nd1SQG0AjNwomRsRFHkcz40gP6Zrxw4Qr4qbuEIKkM+grQdwwPxZHDQ2R7Fo/gzd6l9C/SA==</ARandomSeedString>
+    <ASHA256String>00007399cc8b2fcdf4704c4e75054a2354ac03c54727491b05a2ae5f01106c70</ASHA256String>
+    <ASignedBlockID>XinRAmWBlMDTyG+l34+rJYXMwESc3iuME0OcSaE4I8O+EtYXTLbfDWgNKWMAUcAHTEmCzmW06R18rGZTJZkhdZYKV0zKr9bFQOHsdRp8Udl3YB8fsfJ+Tg7NCPTx55kiI8tU6Mu7F4n02y2kkNdNyQ4eYVQ67IIyaxukq4UC/7s=</ASignedBlockID>
+    <ASignedDataHash>WyTXRIEJuvOL7vsDs2N0OcFwiM+xJuPkX3t4wu5Z17Frfy43XaYKtqXh3uWMAtFP8bDmiIenA5QcWwp+pMUqlbRRGox6dPCUjad55ELNWaFrBGPpmAeJ23j8ST3ThKFcUSU62BF3BFqBB3vfWSvFvONef0rrv6t+AUlUzqRG1mI=</ASignedDataHash>
+    <ASignedSHA256>nxKxnMZ128z9B3XC8r66nND+YHONhkO/TmtjMbWv+2F0L3PovQyjMzPmftoyJS1bTYtXAhoxbkPr6CW3XnQDYgdeeoH0d7OhAf+yVK5GXmBTmIqzKDjxv9Rixb+QhTyd9LpIzR5OtuZQaHIFcN0LU4EFEXS+ph8LartYKaSxbVE=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:05:54.2</AVerifiedAt>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>aa555e43-d41a-4b8a-af73-8465f9472cde</ABlockID>
+    <ABlockNum>4</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>8b66eed04d3e884cfd7a5d0163f1a05063ba2f6cf50c88ab715599acd16d36c8</ADataHash>
+    <ARandomSeedString>HjFOwEzMosx39CHEeu6Wk4J/TVWf51cE8UP0ucFMlGNfwddEtKgNTiHGSTAd6/lBgDUtlSb7OzEIoIFQcwEfw8quc+YYPLdIwtCFwqCgbLTFUaGZaIOX6KIU+q/RwJY0WiYXcSPMrrebVtMmEWEn/t6BrMA6sFSZ4VOq0SOM4zRPjXjvdquFvc9VIjyRVrvm3Gu3jqkZvzoLJudrBCpzoqrF/OIlZODF56BT+dbxRUrVur23chLtMwqKBCjl/KS0tIJYPTqyEqdPh7HNqqgz6mE7YJeIyhAH7GXgRokpalt3rVd4MU5QjNYNpdtqBCxTHQhuiZFB20dkx+L8hw1UGw==</ARandomSeedString>
+    <ASHA256String>0000ab8d7421e17ab9a7ec56b8f0a4aa62d913c406c673c86c7117f8b9090725</ASHA256String>
+    <ASignedBlockID>Vvv4Y1oKOrNV4AEsKNqHnaYbDbzaUh/3XI3gen1T1XrhDuXnF0rzsbjOdtEHZ+CxOivpDYUYudyv3o6XOXvpKmc/ora7qw4rgPFg/3Wpx9Rt08ODz1sMj0oZ9hmx489lQQWGizaZoQnz7ixyilNJTvURMvtFNnLpXP4tEYTVFww=</ASignedBlockID>
+    <ASignedDataHash>dNXWbLrtwK3b3+6Yfy0kpXZYLBQ0ENbt1VHMVKahVFPF23E0sIzIM7Y6e3g3vXlC9i6Lboh4Wd4NNtr3uvkPR1jkZMchmTocnlaER1WyHn9Qy4d8v1wws3elXG0mOi+y/cpGftcWfDZAFM7K/e1qE+FHPxCkVwhvXcysKGx70po=</ASignedDataHash>
+    <ASignedSHA256>OOflyvlyG6poCmiwnHS7gQQjf1QSXUnPslipSKI6pKzDDgULpVhPKLBZjKqGnbq6btL/mxITk4jafyjNDz9KeQYHjb5IBX2kqSjdldFaEu5cj5Ltr2bEczAsq7K2f5bCMCng/22cH0s3rQq6k2+uqcx5CJnGZkqqNY/M4R9FubU=</ASignedSHA256>
+    <AVerificationProcessID>Process1</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:05:55.1</AVerifiedAt>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>50d496a0-23ed-4363-a4d3-fb9e7795a4f3</ABlockID>
+    <ABlockNum>5</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>c279e2595c3df8fa11018861ac015447fb25f11d10e8ab12890e7632358e5f80</ADataHash>
+    <ARandomSeedString>Ks+hE/FLErUxhr+w+D6ra2HkzkBtK9fxAUfnG8HCzw5GmS0kMHnVj//dst+8CL5caEY3qpPkcb/NyI5kgt6uVOVNodwiLwDBFOp+mtSyV4Prv4OT1tC1K6cr5aXw9lm6fEOnMokrphPong2pJsE2WnBHwkKlAYrqar+xM6uEQWLAv2mcHyT7hNe7mhCt8mW2APP5u6OL6OoU6aSpp1hCKy0cAGcQUZbFosPkefYPWV+p5PXEJznASkcj0Bar0jB5gvqran7HrFrthFQyoQll5/pG0Rm6DGpByY7tstJnJOZDidhg/KNMub8yXRrmZq0WiVlWI5uTXLEEE9kRDHk99g==</ARandomSeedString>
+    <ASHA256String>00003f7272dc3cca3b41e6a0252fb63fa67c1d6c3a5cc1c1697e1a6b30c05564</ASHA256String>
+    <ASignedBlockID>rrXNGFEPeo2UQIO7KJuPw69ueZnBIOGPg/BnzKhQH3WHwprCz9FbYLUitAWh/4CxeBGECQ6pTu7VILzBI/HgyiRwEhbDXm18JkPmS//N9zy7Rxtp0rN3o66NViP5b4e66AIt8TpKwMxhIV6cY4SxIWcMErwqaG+8zxsnXbA0PIw=</ASignedBlockID>
+    <ASignedDataHash>O51NyCRKrrMxd2UTYYbhX/Rp8l8DDLl4rmZW2QQJVyuZhjA3CHZH87GreIVQrCSufl9X24TwW/2ALLCPBqlXxN/1mC830cJUyV8tKH/afnG3XI0CO85DG0fRTmyLWpSgWcUi0JbRUxuZFyThXqdkpmCqUxnWemOb1jGfem4ab3M=</ASignedDataHash>
+    <ASignedSHA256>RlGcrcL2DbIg8TqQmn6xsbGqpUm484Md2R18/TpR6/MGWyiqsjGGLC6uBY2N5jdl7M9DcMn1vqgBz7Hc6+Il6nbLT2pA5B7odiS6n9y+apZiGxZIgJdMfTjDZMOZGDpQspwc0V+1CuR8+KtbJIlMDQ7dCXJ0MH0BhvnnYohqcts=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:00.2</AVerifiedAt>
+    <FDOB>1880.06.27</FDOB>
+    <FFname>Helen</FFname>
+    <FLname>Keller</FLname>
+    <FSSNum>666-45-6789</FSSNum>
+    <GDiag>Arthritis</GDiag>
+    <GRx>Aspirin</GRx>
+    <GTreat>WarmCloths</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>859d167b-e87f-4935-852f-d5532f89b3af</ABlockID>
+    <ABlockNum>6</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>a96c86c29df82bd7fdacdf447cecfcaa4d77554f7b22496601e6fabc4d838eea</ADataHash>
+    <ARandomSeedString>pexL2Iv4aJwC2U3GRUQsUYWD3R2mCCviSaUZl2iUMNZaIM+U4qTkNCmJ7Gyz54XE5TSgTNkCpmjDPvcDM66lg8DmZyO1NIYmarbBP92Qr1+ijPgpKpf65IgfHmqhEhGb4jtnmaaqYinBG8kUuK7dyjkqQB3Hy9tIWIA3DkEIWu7L5/gaDX+zZ9JJNLcL/1GfaLW9qNBDBonYpfdrtL36WQ57x5N0IoQ2YTeKuvIUn92yIjxt2mkzMhD51UcwuGVMP1tzXBlQnQTaYfiuXC9mDd8HlvptaldI669/Wf+ROrJ43y7ObzCYu8p9d3WNX4m9eACn8Yb+s0C6BcdV/gjkMw==</ARandomSeedString>
+    <ASHA256String>0000a15fea02e627fd2ae47c0eb59af22963f0be472aa150cd7ef9c3b8eb16df</ASHA256String>
+    <ASignedBlockID>PQ2HZrNReAZNff/ABtVjm0OmJFHLKOap6Uad6t3m+seSIFWHm0JzAQqwT6Q8isUdtdvdZh/eh2E6Qe6i236D2+d9xyxY2/k952mEdO2wEjWbVjBOuI/GXV9soKVPZVXA7ej707oWmDlQA2kp4mg886tPCgJ8S/mmu54Jo99ipDo=</ASignedBlockID>
+    <ASignedDataHash>WRHitmA8DmZIecKtad3qWo6d+KxKIPVWN40AKlk4nJG70otLG5m/zjSoSmzE2ylyAWxbA1ZLdVFYiqgx+2GNWAjGtkePvM7PJXcsf+cVpEHwuIw1KIiHB5XcqLyJsWoop7I3iM7cq9tgqmEVRgeb2xu2HrFussTv7zwDEavcPlI=</ASignedDataHash>
+    <ASignedSHA256>KDDOtNQOl/nL1fpeDGbN/SDWrFXE3kOvICCHrb2n1VEv5fW8r2Lvr1ZmK+XfY+4RsVsMBKhXKFKmryYntgDKzgDysNyaqUSG26esUmazjEBNvNRpzepO1BmJfjY12WdSjEaYgFqbQvWxnHKi966VQqyxnDDgY+mKT76HLLgoIDo=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:01.2</AVerifiedAt>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>4050f8cc-d726-4988-826a-55d322414724</ABlockID>
+    <ABlockNum>7</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>0520d8113fa593f381a08150bc476bfb01e5ceedcdc49c6f63cac6a4e1107955</ADataHash>
+    <ARandomSeedString>T9YwCjlK9QVZ1NYR3YkecLaVC+WgnoSMn1/5xdVlJMVEgmW3+tP2lPXz0SCPkWMQ1oXh1fKm/1pplewm9Kx0YXVDOS/6U5VTFQBbNe1pzMPrdOf4Smf9XdfRvKIFBp2umQ2iQCcJiGNHGzRPTDojQ4g203BoSv0r5YtdS37F9zO9d52hNTX0ipKtIsxl9Ozd0KLoqxKmg69B46+De8yREb9SulUbMTk47h4/RtK86rH/FPafkZdCKc6CA+c4+Ykr1I/OmpSRejbHYZE1leMvzeI58iAx8NE2IlPhaZgnvsoCdxM3n1uahn5NxIOSbM6iWS4VZ8YxyJoH/YnFocHnWA==</ARandomSeedString>
+    <ASHA256String>0000166e0e0fc3db711a7dc7c6b0a180c0bd7a3ddf5ba7fdd1c5d59923ea5e8c</ASHA256String>
+    <ASignedBlockID>Wzm9sEvPt8b/ijzZi01uzr9vgdl9dIbh2ZT39s6mtvRiUYhY3ZA4i19Oui8OFzrPctHl60N3X/pbiByiUoQNpokchNQrUo50aOzrEQROszmnS4TQiZvirayNe77pdK6cyksBEGIHj6UNGec3hLDQhfWzvJ6I6FrkLzBmRl+jhHA=</ASignedBlockID>
+    <ASignedDataHash>adlQr/pJmyf3A3U3sXwqRnRlxlybO9iC+p7FWmgaRNCIezmsD8Ev8FJf2VugAXqXEfG4Gipussir8XmgTJP/9DT9GIWFVzxbk77s0sMvVlmzX+ejvtAT+QiEXWZvi8PhDUyHSR7N5rOdFFZdhnRDAiEAcApGaZvyK0T/CR3cueI=</ASignedDataHash>
+    <ASignedSHA256>AsnM1MYSExZPcehZtmgNYnNRINaSHiYg+leQD1vH7RlFsHvXj+e/nlQdOvO2KhJdvQObgwtrCQjsNO0eS1gU+EvKB03X3dXzds9vfcq89zKNyBvrm452cL+y3pB44iMhsHpEPRVR7TB6er6BqfQ2bZqNZmBcXTptIWIjt9n1aNk=</ASignedSHA256>
+    <AVerificationProcessID>Process0</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:02.0</AVerifiedAt>
+    <FDOB>1809.02.12</FDOB>
+    <FFname>Abraham</FFname>
+    <FLname>Lincoln</FLname>
+    <FSSNum>444-45-6888</FSSNum>
+    <GDiag>GreviousWound</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>Surgery</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>411a53a1-32d3-4103-a906-febf01d7856c</ABlockID>
+    <ABlockNum>8</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>67fcc6fe2f5dcdb858d69af85dc6286590fd7fadd4dfcf9d72b0045fbab2ec39</ADataHash>
+    <ARandomSeedString>yOX47mHxEtQFLUCOWeh3WdzEWtjmaSvdfeloaRJmj5A7yN2w4Kz67JtuxGI0G8Vfj09oyegmI3EfI5T4qwwn5xly5JakhuNufo7DXOjQBvLB2gICSWk4xRll7V8GegbpbtFGImHLzRKwoygxLX4HqpcFucfNQZARGW7H2ztCdfQa7mOWDT8qOCylmGigKttTTNKVBb/ouXMBaNibiVZQR1DQEbBlQdAFXfQKM0BpQcCsdBr7a6qSPGiawLnSBcOIGbfV9WcC5FCkt/jw8eAdJ5pwM0qi4wo5Gu3E9RyN7wPPnnxZ1saecdUELeD8ZEnwighD6jkO3mqUOmc+ETjpSw==</ARandomSeedString>
+    <ASHA256String>00000cd62696c3b81a4e3f086dc7320a0ebb6c0a53f6be413fb3f73e98ecabd6</ASHA256String>
+    <ASignedBlockID>djTKBYB8G2FnVSIEBnC3LWhE+8E60yUu9lF5kDQKGMovS5DjtVVz2oFCNmC4yxzeit08Bm2iRFnaaJJeUiK5N0t0MNKoypBo7NEesIvr267g4BXbYMN6EjK8UhTpYuBWofZ18lUtpHkL3zf00umPNw8+PTrlvORutRGd+hbMZEU=</ASignedBlockID>
+    <ASignedDataHash>INWwE/JukYF1Mdw1jhRRFMJKs6iNaRvt2US3TywgSwwgAUsH7frWHdMkxMRTv+zilYlk7YHe72MTvAomzjzeetXxUpLBMGrFnVP5dPUFAjE358NO1gR2c3xyp7XgmcBUUt/csuLb1VMCt0Ca36Sw8ckKizt9Z2kne+5Gw7QQ2ZA=</ASignedDataHash>
+    <ASignedSHA256>EYQQlAqzuQhmY4/+desKjpy9BcgpVezQEi7CXCBnNgpJ88yZ50oFfRXuBbNRhc1vjsIW9NOTzryOd/l1jXKb+JpE9QfKV0d1VYgG9UL3rzyzCIDT0dmZ7WYMecDNux65tgWt+CpiOgMChOd6Ccrat2DOWjPBtW3ge3BW7u8R3ps=</ASignedSHA256>
+    <AVerificationProcessID>Process1</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:05.1</AVerifiedAt>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>70735123-6cb8-40c3-87a3-0390c7d90efe</ABlockID>
+    <ABlockNum>9</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>9215a4af34013f207762e597ef0f03bc543fc234be0912f399b89d6c05fcd50f</ADataHash>
+    <ARandomSeedString>EE19avMDPToiChBcYQfDOPeftMGZT89rXaLkg9MLBFXPgliOBLGtvrGygb2kRRreh1oFy1QEeV9YaCVUHb5q+dJ0M8okeexZ8x1QLv+WAQE8x/3BEuaYKr6CP52jcyq8fgut+H9QA6cEgZjAY9DDfhLN50OTrL0t1JckuTjsZawIPF1xgxn94/SbnmKkKNxCGtnJZhYeoYQVFNY70gP6jf5Okt1kqdORSKQv9fsQw9v7DCK14duhPrA8/PIKk291v3YA5JncaQ15/4cCgp1Nrm69aBu8PvpaCBJd2Z/fGA/+tV2ZXbsDEXPNRXW7fWFxwUD0WnZDRr0zAl2M85w81Q==</ARandomSeedString>
+    <ASHA256String>000004e98e40a3a4f149f6ee314f69d2aa4d7b2ec2df74af0562290dcff810fc</ASHA256String>
+    <ASignedBlockID>AvCsLYpHmhQr9zif8CmCBu9srQWmn2bZ+ZcAMJREGQMJAD8/aubShs2M0HGe1znCK7tBBJagfZOHnXXfUbscsNLpYkUMhe54HGCVapiU2QlPyV3SxCXVZp4wt1X/yqBcrPM6RW29zNJ1aFEiasaCDnYY+gRa/zuXsS9TS1GZH5c=</ASignedBlockID>
+    <ASignedDataHash>dR7DqCysE6G3/PnOsdHZVR8NewhJFPBnGyzv65WpH0DhDoM4knQtE31MvEcRJKRHPkTGjj8XeSmOffiuu1sxnLaZbLyERvbnV4uQqqFmYnpvmdDnWSoaZRt1RQuWD+cMttV7jt8pge2siRl5phNjoIkKaJ1NzKlDoZ+I5IfLKkg=</ASignedDataHash>
+    <ASignedSHA256>L9iafIIFO432iFuaeeiB+YPvVtiopFyLn0WyniRuVtX/gGcXnjI1tPTbfY14JLyCAsG9MA1NaOkXxFdQ/M/HKwexw196Zmx0gOinyjSqoHjhLTDxtbSgc9V3cmFolJotf813JgzKbq/M73f27h7OV/Koh4wADs0azs9tkjFF9nU=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:08.2</AVerifiedAt>
+    <FDOB>1970.01.01</FDOB>
+    <FFname>Sally</FFname>
+    <FLname>McCutty</FLname>
+    <FSSNum>123-456-999</FSSNum>
+    <GDiag>Migraine</GDiag>
+    <GRx>Almotriptan</GRx>
+    <GTreat>IcePack</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>d38e7fe8-9995-4857-a570-862f3328dbbf</ABlockID>
+    <ABlockNum>10</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>977087b562f1d73a9509e032e730e1d93c89b18d6daf7ec028c791b0ea699bd2</ADataHash>
+    <ARandomSeedString>vU0s7xCZljBqsS0emIXuRC7UIJXOKutaSA1Ov18PGQUMTSGe4ifUMjaTGgRDGiG6gNXZFCgZSFM5Ua4qc84m3uzzGidYxI7qVbqn/ZcOFQU/asNN0zE3ifsyx0Q0fUNVilnE6qDKQUa/cIUlVPRoE9OKCzqw0r/LTaGDeWVTS7Qp8YhSacN5+52MYkhhxwOm+LhB6mFKQoRmJq3BL/F8Jp54tBxq8LN+z0JWzUiOQmc+Vvfqzqxzx2xiEAWehxA20zYy+tvo8p1oycFRuIoJ0IdKpPSht08l/VXGnSGRWzlEioU0+UWa2SzK0+ED+prei/oJLMrGsjqqfGwODhqDvg==</ARandomSeedString>
+    <ASHA256String>00004e7314e3b1e682c11a6578d93de453d8f105473fda8e2a7ced71375221c5</ASHA256String>
+    <ASignedBlockID>TuMnN3TE/ujJO/3RfMOHvFFackHgA1FQ3KPwGNS0A169IPte8HPAlQG3PcBwEeJ/+rIfWPvvbkxcPYbY5o3tkZM09krlM14OIxlNRNtZjywOoaKDNYmJV/I6LZ+O2DpLGBRKJkACzaFi/KBOFtoXmyWoSHo1X80EYfZ63S92r8s=</ASignedBlockID>
+    <ASignedDataHash>AFRig+w2coRAQyDeoBY6hhNvCwWBpeQAYusNBxOlsIX/RjVg/W3xWae28Zd7qThZ7GgRLjbY71NtB26lTjA6A2RzSySS1pzl7nQJdB8tZojTOLw96cPPPVYPn79TwtdD46fKXZxr4+riKCWs3GD3pxtqSXcx3jEoDeOUFQ0vbc4=</ASignedDataHash>
+    <ASignedSHA256>UR0YDl5lXpq1XhI/JbPTAhYljHg9L6ZZY6w3gKHaA4knbB7eueX1J5nKH5v9A1l2z23ZwWAVlw997LuwTVTiqqcefmjQ1EPYIO8AGgR4+SFZK+7J/ZE2wt0KXQD1IVS1577kAd/PtH5Pbwwl6XV4P5rtIHTx0eJnTmKtLs7SeaE=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:10.2</AVerifiedAt>
+    <FDOB>1940.11.27</FDOB>
+    <FFname>Bruce</FFname>
+    <FLname>Lee</FLname>
+    <FSSNum>456-789-123</FSSNum>
+    <GDiag>SoreStomach</GDiag>
+    <GRx>Vicodine</GRx>
+    <GTreat>LessCombat</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>3403835f-1843-4c2c-9e23-f49dfc4d9b0b</ABlockID>
+    <ABlockNum>11</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>d476552fa896cedaecf97cbf0778b5c61692d62e9c39b69dc56a07ea6f663211</ADataHash>
+    <ARandomSeedString>jqaa+PIoMPmsHsjURqzbJYQSNXWLcJAyUikbLtXWk+FyIhfoSGFmZLYkMyfLW9XGGQ7Hr3zTa9/+5AGFlLhujJPhAaWu0vUjEv05hYV1bnDwXb6vnzRjSkqjwmCJPuXQAc8kI4scL81nrTjy/2Ee0HPqzR2v7pH+x9fuW+PZpv4eDCjmC3g/ydTLTpErQ1mQn2MDCWlOef+9mZ9/c2cnVCPnOgedrJjJaZlNAds8wNaGH3nYDU+jnafmGsgwgLtAnCF1AXMUszCp7F5tSU3if81I9ZThZjCxsrTu/rNZvqLmhqolBbFbOg7srsKQtQ9kLl3QfK5jokZD1WvVuzZjQw==</ARandomSeedString>
+    <ASHA256String>00002e457ca3b4fca5e69712f3739167b4328829d678a0f9c949de6a27f3c1f2</ASHA256String>
+    <ASignedBlockID>bgZMAXYi54hu1MJtJfTfGW2+epyZP10lsojqbLEzYTPn1GgieMuju4hA0hXq63RfSQCxc96W/ZTpESDTde9dxuyemZtr5kFRnuahcDyz+ZVzj16nu01QEIre/UfYL0badQPAAps/78RgZkjNwD63sflpuJDJhtwlgtHmbQ3VACs=</ASignedBlockID>
+    <ASignedDataHash>kT3hjpID7RSGrJuhNElBpyeG0oBKLqyDV62rmHcHv+AvhVyGi44dKh8RQFsnAKH3yt0CEXflHjsPHSeOgDvANxuX27gq8r9G03jjS/3hGq4Oqq6DUJLl1cxwwS+CKC2xt9N6zMkIyN7E++II8XWD6xue4ToqT+EohVJhwRjGsx8=</ASignedDataHash>
+    <ASignedSHA256>KUv+JPjdAeRPGJ2yJ+8t6VQMimRPqOhDnfwqxMZCcKfqZf2wRp3SIOxDI8L/Ie0bf9Jgvn1iuwUXrXW3BfSQAGLwD8oGnMDqMcjXlQZOrnf8LmVaPMsSdJwxEDfac6oIPmlWzR9teuOmbrK3rr8BNsESJdvce8/wGlz9K+0ZJXs=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:12.2</AVerifiedAt>
+    <FDOB>1917.05.29</FDOB>
+    <FFname>John</FFname>
+    <FLname>Kennedy</FLname>
+    <FSSNum>333-45-6999</FSSNum>
+    <GDiag>AddisonsDisease</GDiag>
+    <GRx>Steroids</GRx>
+    <GTreat>DrugTherapy</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>eb812c39-a00f-4c01-b5bf-acc0055785be</ABlockID>
+    <ABlockNum>12</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:05:46.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>21e40cff0769c533c58860019be7cdad2b9c8c0473139360e7299700b4a6857e</ADataHash>
+    <ARandomSeedString>xhbmfiZk2gbKjqPOkUI0mrGVsK5uT7lgfogWCXGzQc/eUJePUhMgj6a+jPhsrs3V/RQPhfrr0JF3izRirOVNqLRw9KB3ApWePGtWzr9y6KSx1ughT+fxXY2+XNfAPixMAk2XjjmxXba/+1jXtEgl/KM9xDAkxM8HngMmRzVuBHhYPDHFfYTo6lmNDghUmujlvdWWPLF6ygm93dkDu37RXJq7gyPxqmORpj2QLhI7ovJ84hEENCWOILHja9SklpzngGRX+oIRW1s2RYIEQbAjaHE9gvxuvEtEdQL90GVIH+EVNOuO42dw1w7ieHeZCUftxIRd5CPknMS2j5RyGXMv9A==</ARandomSeedString>
+    <ASHA256String>00006ecbf14acfae75de1de1b9dcf14a54e76ce1e90bb46cc2537a880f898d8c</ASHA256String>
+    <ASignedBlockID>h99NFZBOmlq4KeAe2EbH+hKnGUC5kMQAHKgvh6ch4YOdkkF9N0opTWleDxhpvkaKz6n8biXxSmeY1HQOOSQsxHA0ZMVVbVtB/MJAZOa0oqvFiSrh2s6SjIn2JTWhk2a1JIVvg7peF922xxcHT/m6UDtTybh3y3UvqEtMizUZsUc=</ASignedBlockID>
+    <ASignedDataHash>jaM6u9zsEPHdUFoJcIPNBc4iTWgD9kYiYINuT35yOpiki4TInl/+0uC7BOyuhuVDkaiHxvpBwwugDcPxNto74Oe5Tfb7UF+UykA0vGCTfMzbzLOFafF4Rykfo25v5Cz2xLbrty5WRgDM8N9vbIYQZyCrZtMvczUAwuZjPjd0NUY=</ASignedDataHash>
+    <ASignedSHA256>SScPZt1Z3KeW0tC/n6hnDe3T3EzXaa7/DzfTjrDSI5XHchh3XRLiLegiqcriSE+fogqHGzEtJh/D5d1PRArSI8OEECiEblvaxCGKWVv2PPEDOlO92dqh0ZdxU8klopC8NFxD5LGV4JnWmxVbbW98UK/hLwgrRaMLUkuocIAdbXc=</ASignedSHA256>
+    <AVerificationProcessID>Process0</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:13.0</AVerifiedAt>
+    <FDOB>1914.11.25</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>DiMaggio</FLname>
+    <FSSNum>111-22-3333</FSSNum>
+    <GDiag>SoreKnees</GDiag>
+    <GRx>Aspirin</GRx>
+    <GTreat>RestFromSports</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>09ba1db4-696c-4a95-afda-2d0821537a8e</ABlockID>
+    <ABlockNum>13</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:06:54.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>a09e5d86bd9336a3ee9782df0574bbf75ed11d9f51e02c818e361331ecbc2ebd</ADataHash>
+    <ARandomSeedString>ONxo/wEDYLlh5MCP9twjgv/rWM8qTysODGpmMLNv/vKIGq1IpZTvkKbWcJ9Y0PKa6NgEkvqCVqq32gNlWtQCb0pIKLIZp4CBzEiM8p0e7xIl3Kp+ejPvVNOkSkE2nmvQsWvZ24amf0Wo1CZzeLVWYpZm8z818xBJ78W1NC5NjXvmIHZf9w/AySQdk2QkWNZZTWo8CdgPJD3vQb7b7IoE5Ifko6beKdCKvFzLbd5LFd8RzQxhtVLk3IsZrntgHwANIy4gYo1M28YERO35ZhRaadyqk/pDUU8IzZBrIDz1JNi/WuEivrpccSAo4z+DQFoiXWjd5ZtN3BaXxfZkeC4+9g==</ARandomSeedString>
+    <ASHA256String>0000201a0ca0d809f6f67093e50dfaf76f9e1f70ff584aefb1a27dcff5d7e1f3</ASHA256String>
+    <ASignedBlockID>L9zJg4VBPJQLlV7da7xZWwT5AN0LG0VSzd+gXVsE1pOcyncfyzIxlnM9qqiINg9zwG0yBr2EuReHzReKMDQWeukFOMlnuNx9pB46ZYhPmArTCU3Dr2PHtxpLNtxd5chWG9XD13UAVfQR6kuIKZ2/iDgf0XElGbycMlGpWymXUXI=</ASignedBlockID>
+    <ASignedDataHash>fOpdrYP+wvI6/qRSOSQ8D2MW6OyWaeLJiC7v0tlFfWmAzTn5I/Y7nlN+X9NnBYatOC9bWEIyp1lVxf9eVPj7fQBJX5H9hW1AgC6fLb5oPRh/BMQ/ZvQHfeaDKDuK2QuCsVIzPX+QTkl9nv67yBvLB6Vmc4++FWID15oXHPBlc74=</ASignedDataHash>
+    <ASignedSHA256>CjsN9VzTJe2WDoARhqgECE3Td4QLns2QTwLzfOgHNJ8uhn8U8DRubWsyM4loJ0ApHv8lXSg0K4Xdyu90WRMdDdCkqvod0rCXIxykBhjVM3pNOE1jeqWvQ0DjaD/4lOrbH/ZP7f5QDEeJZ7lr9pecwqWi1LJBhXxGirkDicDRDmo=</ASignedSHA256>
+    <AVerificationProcessID>Process0</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:55.0</AVerifiedAt>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>c4dd0da9-694e-49c9-bd6c-2bf2bf6f052b</ABlockID>
+    <ABlockNum>14</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:06:54.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>39d501e6b79a7fec66f3a4d90aff5c2b61384a78a7788d71c40f49bfbe01ee39</ADataHash>
+    <ARandomSeedString>PFzsaqmlqU/vpy0dgQeSJctHnk+KSJz808WaA0nlP2CzB/WUoY8Vhx+qURQUDSAGGTIwI4XlGfsh6z/l4aBBHJn0yClfvANG670UVy6UIBwyUM5M0EyWQWoV7dV230ofgaA0nBHfQjC3Hron+ucmSjHiOexcAhcCra6ik8QfUnWxbCPyilZMULp0lUjoIfvmKBOxK/zL2FH6Bku2Dc8KiqXg7Ay/feiXgRtUmCsuJByb472m64kYBPiCwd+VFbvti7wXFEuM3KVquLhqOuD99ALkB5NCn+5mYBohmyezTo3G23yN7AZEMiohw7tPF819TL+yuoPq/nt/JvSujus4Ag==</ARandomSeedString>
+    <ASHA256String>00004bc1ed686148916d36d9ff083ae76e44842607b88eee942378190f8e4b2a</ASHA256String>
+    <ASignedBlockID>DT4A7dTHrQlRzMh9xECeapjpIAt0S2uZcg+aCn6YF8meRSa3UQtdilYxZKm4Xu3MObFb7oRXtAQQlRt7rCzWBEu08vvyRRShuJ8SwJKtcSY5sZfiShNGpPW0GVfBXpLJc5uz7G5sCM9Gvr54a23guY1FX8npeISaD/s6KtxPuy4=</ASignedBlockID>
+    <ASignedDataHash>MKsAr0quCuN0xLYFNd5B6bEIRUgSlBW0gMhYskYK6xQgbEtJ510MIw/M4on7hG1r2jEOD+hGhbjN8+yvnfGwvS5bIQDWCrxmk4xqZAtuW1LqE0l32/jjrfXWaslveVYZ7LRjlT0F/W92wQwDdD+IQ3gjTfxxDZzg3jO8pfp4oRg=</ASignedDataHash>
+    <ASignedSHA256>JhatxFt2Y1pjL157uEw7MngHG6SB+PE9XYxifZRdIIP+7a7Vo6otoRuo9l0iDl1isBjRKNO/uNZTDqeMAL8L+11GHqaWUl+2VOfnB4cY+LpAlIC/yt85k8S1NG8C0/WlhX6pMwYeOzSAUcmwJXzxqgM/0WNL+mLZmuJ9gre2Vt0=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:56.2</AVerifiedAt>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>7c8647ba-98aa-448b-943c-35a8d928ee1e</ABlockID>
+    <ABlockNum>15</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:06:54.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>fcc1a4ba6f985877b4dad5084815819252e67c9ff9b117667bb655e013f5821e</ADataHash>
+    <ARandomSeedString>SH6seIab0LNufUTekI1EeUu8onUp89deUFZamzzd1z3WVvL/VCkf5DzLG69ePF8du2OQddiEjIPKhAamGWShiUuBtoHJ17iF2hVhX9O3iJj3N0VFTmq8DNtv5WIr3tvIOlK4i7c+X+VJ1+dpKnUySbZOLhPUAgFUdxxaUrhVBKKdUHJyhEL+SI4cw1FQGqUuUjIK3YyvnebVzj4599zkT0+eQNGpkulXMmIb4mlgKoFIUj2p57mGgfAu7CCWGGq1kPC7hDN424TCgDObTMagj7wDFB8viu6nB31QjjSarxGFGEvbRfSOUk6pbn0CE+NX8hEUuP4t0yAd1ggc6ApNdg==</ARandomSeedString>
+    <ASHA256String>00001e9133771ff68f29f4ce96e7fe9350f6ff6e501c2597c8acc01f453f6712</ASHA256String>
+    <ASignedBlockID>X3oZQsTqWbrj4fme61mztXamNItSccvwjubqee/1h1pikBh7lJZgqUC+Ir389DhlOivo0jPuIKGSaxpNFoQ950AwbWZaQBFkzVRggdQh2E4EsTOh7uRrbiGmOgxU5lgQikRbPO1vGEA4Srz/A20gd7zP5ZOzGWoKdto9KJxPy/g=</ASignedBlockID>
+    <ASignedDataHash>Py9Nts+M6jDwcgyhAaRDZ3qsPHwUZEHwslVbXxTW8hQMWHs/z4i9R2/ioWT/l7oWYze87ckNENc3iunYztIsEE4af7sbVm4Cib1J+4FMRVB4uoqvNi4YqchxYd7I/rdJJivFiKUQNkRFUhNlFhi40ug1VogRGz3q02rZLviVOi0=</ASignedDataHash>
+    <ASignedSHA256>GADCYc0vXsZymh5GWONhzzkeyM/tN+ko0iaZ9LOg9DZxOfGTjL7Y4D4Xc+XCN5nkBRJCzYXwdGSJPD+QeLPS5CdDjNGUBYwE+IFi5TDDNfW7q1M5ABrurttjhdCUDSmBc/z0FkEVtUlQMsTgcha9jQ4E3fMfsbzfxqEP+fLRiJ8=</ASignedSHA256>
+    <AVerificationProcessID>Process1</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:06:57.1</AVerifiedAt>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>923816fe-d434-4e69-8d48-24c113d37f71</ABlockID>
+    <ABlockNum>16</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:06:54.0</ACreatedAt>
+    <ACreatingProcess>Process0</ACreatingProcess>
+    <ADataHash>33121cb9b262f478730210471334134e5caa4131aa339ed9e7755aa576c51d24</ADataHash>
+    <ARandomSeedString>rBnJGjjKYIZxsjSPmZRrWBBH/Q7OTgtpPXNF2VUA+XkQjGh1cVW3h+dU8VVnv8w6mQpXgDsbqWPl/9I7r2MG3T0EViiQtBEDX5bPYJioyqRbhlczbrAX8fK28WmLuK+BfDQiPQkddpGwZ6vUqNWjWADVCAiWwS5Gay0dS7NZyS/5g3teZ6FFkDPTIDpMQf4lVrC+qjccSaUcprpuY7Z0SENHMjDHP8t7RCl88elNJRXQsVUzqR4mdhOGjwXL7DrQ0Ihb8VtALg7EPNM+G4gjAAMj6seWfhMDJNnh8pA08BZ3YdR36OPh7ZqvWcQwOWLrKl5oxIBfGf5m5nTaSxmqfw==</ARandomSeedString>
+    <ASHA256String>0000859e5746aacbeef77ed299c5592a22b3dd064f261e14604261c11b669195</ASHA256String>
+    <ASignedBlockID>Y85pBo19UHcosFQp9V3oVUZOGj/YbHrAY3GAVEzJNt/cAh9pfq4+5/EKF0SnpXwteGZ4B5xz9mS93F8+FvUmpdGxLU3y0Lnw0wRLKZqkMyUL6Ac+nZSIKqCMhxZrr8HxU2QA7cItMlBWYJYdCqEPNdua45MynRaUYFc4D4271us=</ASignedBlockID>
+    <ASignedDataHash>TWyYKyj9t7snjYwBsfn1wCSUCTqFq1MdrvYsJ7TN5RB9t7184PSs9lrtHLAeTbs+f8toEdcr8PtdyThwckGmpH8prFnWK8C6r1c9UUJiRQ/CorGp7jZeG6aB3t02RYLxAGIyM0YtPF38IkfDdwwl7Dd2vupU5fDas2wG0UZQ0SQ=</ASignedDataHash>
+    <ASignedSHA256>Y/9IAOdE36vIYS0ChmzNQD0MPKyFan3HSZjQGM8KQlP9S5BPzK6RM39CBwLpJaIXFAAfPFSz0MB0oT3yIs2fLNmWUmPv7qQd6ad4isATuvBgL0CZhlymOk+uhrJ7bAccGLOfSiy/mZQzQjWZ9B2wTlSyFSPLnPsRpXcGn0Go5v8=</ASignedSHA256>
+    <AVerificationProcessID>Process1</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:02.1</AVerifiedAt>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>c1353d7e-a719-4bd8-877b-50a4fc03c7c1</ABlockID>
+    <ABlockNum>17</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:02.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>dc910c0409d90af4c1e3da87fb86c6d1b51ef7cdf5bcb11cbc984ca8789e9379</ADataHash>
+    <ARandomSeedString>vPpR5IyZ7lFE+x6QQGPz3eD9hzADnxcXMabZzQRkVIjVgSpLNWp334eNsa6clVFQeNwhK/4WezEEAFjlWpunR+9Q8mnKZQQqxpDv0sj7L60i0TjO7lFGeNn3RU+kt7qNaeKt9VUqakgR6HLUK807AoWZJa1fENuUGu4toporN2DU4f6ABQGQW82supfx2vm2wIPjCEDMiu/ECmzB+VvXR3ie3TmrnkSBMCW0DYiEjqXiiN5oZgEnWekbwIYDXGmv0E0emT50upfGCvxVJbzfU3E3eqQKBiJ+LsTM3/65vJQJHmzjV48Nye8gkmQ9G0OY5G2bTUdzwu5O+d3RsVvNFw==</ARandomSeedString>
+    <ASHA256String>0000575960e7d781eb5c71dadfab1c70c256815003045d954911c59b15941b15</ASHA256String>
+    <ASignedBlockID>F5z11MnGXL8pLS0XExaUtZat3M8EBzjyzArW/nD/+P2BcggMj2fzCubhojtn011QMk1O1jmpI6AtWUVMRv/u7b65n47CDpUorL3w5aVBTnKOsStsdPc20fJTeSM/DnCZRypJxFj4U3c6IiPkCJlUj+UylfK7/M889zdYdEhK53s=</ASignedBlockID>
+    <ASignedDataHash>KlH2Ligli6VDfVW5CuEaHWJ/SZdB+W3xbazwWK2F//SBqCGui03T9nR4p+GYpwFwZ4SDulWeFjeqLKk14n2/80wM32rDFyl4oxaOFdoj6o9r+AYJppGFaUyXRuljFyCTG59fGZwU0NvbnRCD0BBEoX5vKjuqQNMLaXvTHXm4T1E=</ASignedDataHash>
+    <ASignedSHA256>hehLxtd+Bo7oPkbcsSt3AFEwNMMJVi8DmZxN18Rdo2dojnK0fXcxOxoMx3jJZ3whiCRPsF63Jx0j3TYuUyY9qHk3llZaeoDYw8YoDx77i0k+7IdrDXI5E2esuqKACQXxw9xnf1ERfjn5WHlX9qqkrD1geuP4dwygylaEe/j3OfQ=</ASignedSHA256>
+    <AVerificationProcessID>Process0</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:04.0</AVerifiedAt>
+    <FDOB>1992.01.31</FDOB>
+    <FFname>Rita</FFname>
+    <FLname>Vita</FLname>
+    <FSSNum>999-456-789</FSSNum>
+    <GDiag>ObessivePersonality</GDiag>
+    <GRx>Ibuprofen</GRx>
+    <GTreat>TryToRelax</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>f04eecd2-ef0d-495e-b6ea-318a6ae565eb</ABlockID>
+    <ABlockNum>18</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:02.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>c3a8dc28e06b233f9bfe917e0927c488d4cab810777f11d5cf1c2a69f6698b5d</ADataHash>
+    <ARandomSeedString>LG6rgC9OBUsUInKfn0AOR+m4tdqLMiOcb/ODmpcmUZz2oq0vSRh+BcNzpuCuUFwxnvhiWMO1QpGJ4OqmC30b+fA6VoPyI8G90TskQeY0sPyyYCe3WD7gAFX4XeACCQMNlTJ7Kx+djMrL0ggie5KNNaq2XVKCjRqXemwLncE7vY8UX5thbKwksBB7qcbkFctd/+/xPF4H52ayoQ21ET7lLtBQlRqV57BoU0dvzVyXSnGdvJPaa6sFO0j+jkG/3MF53wVoQv1Rp4McUdkoYk/hJmbhv4cNnUv3oQgp1hyFLOKMbGdrKu1mOkc/H/k5G2KdrWKqpg48hqiw1ZjifVGrTw==</ARandomSeedString>
+    <ASHA256String>000032bfe0d0e27812822b5bed0acbef274a3378b2334882d5b5487fb53f3c61</ASHA256String>
+    <ASignedBlockID>KqQfJxlYqeQ892qb+cq/9FWCKnNkdcqPmXEa+5kN4exsM+XpKPXriZFdmFC5VU8zd9JnDrVbV8fb4YMq+DSKFYB8IjhfScICTOSi8SHju20kMU/wqXmJoXJiEgwHacJ67IqF2oy0LaEm4Iacw5mJRu0NxYNE0eXFO2N5TX/mp8c=</ASignedBlockID>
+    <ASignedDataHash>j32pEwWT0j5Jh1CgheS1GXlpNgNzV5URFNSvBlLO0pcG+Wv2DO5cy3OJKL4gNZwxgIeuMdeBBe5YoZhAd0g4ba6xbvz0+P8VHU/vse5HL80qo3oouO3lnITUOa1bUFmW+03+odlDIgzf8IDwxibTCtqOm//wTZ2yVDuF69MzarE=</ASignedDataHash>
+    <ASignedSHA256>jSts42RDfJq8egcFOg63Q+tAIeuyY0L2ExhDccXG5Cv51traM+/NA+QVhqjZGrTRQfTYlIOajbiB9qQ/PsDAt3ckSyVGaFm3/UMEp2f8ra1o8WFvwY99iUKbr+kvjc15anb6CX7xPSDlHZSuOtcUabbfRuH5PdlqAMBGQnXgDAQ=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:07.2</AVerifiedAt>
+    <FDOB>1996.03.22</FDOB>
+    <FFname>Wei</FFname>
+    <FLname>Xu</FLname>
+    <FSSNum>123-456-333</FSSNum>
+    <GDiag>Shingles</GDiag>
+    <GRx>Zovirax</GRx>
+    <GTreat>WaitForRelief</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>18ce1ced-4319-4167-a3ba-a88d3a393868</ABlockID>
+    <ABlockNum>19</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:02.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>c680ebb789f5295f9c521d10323a5ea5a42f5ad0ee3e0ce21e445955b7e328ba</ADataHash>
+    <ARandomSeedString>3IsMjdsM+V4/YjYhOr/ZB3vXYnyCil/9Upjg2Lha1cdOdRuwGtLYYRpaPhbpH0pFdw2H48Hpmlk4hbudvVK1IfVLjVYFkVHkURKzYnSJE6QFHM7+dWLQchFZ4o9QOsAMxLUQ0XX6zLxyEP5pjPDTIxhi42tSNxQ/Po9gToxc/CjRGBldluZKr9IQPblVs8jjCl0AR5xzewIkAjyjPhEYZNX7ABJma7c9Bpsg0ujT/mIWkQTCreksdatHWJtqH1Owr/bnPjlDfbtqpliG0QJgr90BcpJzgSOCwh25r8fvQUnhMi6fN4OOEZ1OQYGReWaU4jpQ2O/We2XZ5vWGPo/UmQ==</ARandomSeedString>
+    <ASHA256String>00003291d47f1a2afd80584dcd8935be1a766cfb5dbccb095d2e31cfeb608665</ASHA256String>
+    <ASignedBlockID>AlMngOApYHHr3QbSSWUX9culDT2Oob7zFMxfjAijY/5NA1rr46NNlJhnevWoH9TN/BrM4Zg22z11OZUFmY2F/dR6B0uOsIrXGKwVXRsz3bPuTYQzG/3kJpZaKK5QtibSY+l1ABjFzrmRjBJUojNfx5MX8rYhxa81BouIUbuWP/s=</ASignedBlockID>
+    <ASignedDataHash>OMxkvMnuxoAU0npDh9vKxYossts+T0PVBPWmMem4Bv4ZAc9yxhOkPuiV5bbkmniglpUjZWkfYoR+u3sE6zr1p9RU8CI5ewexzC8YojfL7IIdlI75zaihlguyQRXkzTRHxH8OjZoYJIj65l13cVWfk3LnlkhwX3RDh6WqaeZDjjo=</ASignedDataHash>
+    <ASignedSHA256>YFSRT0YucXApJblSA2gIRAQ6Yz1VZbIEUlc7Cjc97hY77soRrRnVZpZEE4UpYC3XWRrcjZLBSRc6baNBUgr5nnvJEsCJbZSNycn0awkvUJ2+qjZLrVXUfY+3wO9UkwQKx8VHRysxuPNlz7vwaBAWlLDpd8lk/QxKk8ub3I312aM=</ASignedSHA256>
+    <AVerificationProcessID>Process0</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:08.0</AVerifiedAt>
+    <FDOB>1970.01.01</FDOB>
+    <FFname>Sally</FFname>
+    <FLname>McCutty</FLname>
+    <FSSNum>123-456-999</FSSNum>
+    <GDiag>Migraine</GDiag>
+    <GRx>Almotriptan</GRx>
+    <GTreat>IcePack</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>2ce71abb-59b3-4d31-8319-edc9c9feee07</ABlockID>
+    <ABlockNum>20</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:02.1</ACreatedAt>
+    <ACreatingProcess>Process1</ACreatingProcess>
+    <ADataHash>8b473ec2147e3663785a08d52bb03087cc53a0c364f7c7b7617fece3b45465dc</ADataHash>
+    <ARandomSeedString>cHomGf1mPbVnwRC87W/Hav31Le8j4/rH0w3Y2qtpIHxVmM2zW5qv1qOOn/BzzOhyC8VWbgH78mj9SpppzOerlaZUaCvIfe99huGp5lzGI5fHRUBiEWqBmiWYS7pW/AJEkdwULn8Lje4LJOD+MGnoWETU1RDKLArP921Z8ZngYCMrh5xX1OvLu7bWScqq7qVGuDAcPPk66ajpvwT1WysIfOyt0d+qoxvtCl04aTjR5hL8X8Q/PB6vfbAQZXtTi/3jMRWgKP0S944S2hakfK7sKg8cCg2I2OkiyZYJOa9Rb4a55JHZWkPF99kcqZbN+fUuk9S/jKQatOvxcOq/j8yTKw==</ARandomSeedString>
+    <ASHA256String>000026aee924622bc14fe494b4294547479101e8b7b3fec3998977efd2c1154d</ASHA256String>
+    <ASignedBlockID>RlWsWp9Kp/61idAnihY+2QDszepIpyPRQf8bdhouiS00EsGA4grh68Yv7Awy2ceZdZRo3as9BYlciUIcCZRJLORJIbGfNofuIT4LXT59jpTcU+edO32xIUtEujTy/rMN9VRpsfjTqrZYi2uhLTGwQ9ojAgp7hUjhOsploOWr3Cg=</ASignedBlockID>
+    <ASignedDataHash>K9P2bveJh26RgMObv0LVhHzYyeXgLpuq5SXIHhVVyHV35M4T8PxikYIdPjcKXa4Jp36s5+xZlnMmW8uiZhR3szxuvRQ8TgojGYVMA7cqiB67FXWUXbPqXVZFbVIadM16qOULV8F/x6Hnbf/owlH6B6wLaU+uyEkxdaZb1je+gGk=</ASignedDataHash>
+    <ASignedSHA256>j9niAT5z3SzidJ0qITAgp+XQLXpeEMymsDs/ZORf1p82qgDnbDoVN2AkDTSuXp+tXwsfXfT/1D2eW7ggQOgQF/uV9yGxK9MjWCyxu6veQIptso2myKR765eswKoL0oagdKyAK2t6PVA/piAOE7en6Q6DpCaPzXk70Aw23a51gpc=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:10.2</AVerifiedAt>
+    <FDOB>1940.11.27</FDOB>
+    <FFname>Bruce</FFname>
+    <FLname>Lee</FLname>
+    <FSSNum>456-789-123</FSSNum>
+    <GDiag>SoreStomach</GDiag>
+    <GRx>Vicodine</GRx>
+    <GTreat>LessCombat</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>88ee0b5c-8811-4b0d-8c20-5064c0f25cde</ABlockID>
+    <ABlockNum>21</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:10.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>604ac4b609fcfa58bc32de81d58b5b300fa437cbb0c21578bdddd61d5d754e88</ADataHash>
+    <ARandomSeedString>ZMZpZYrlgPAklrz46tz9FKKc5TcO9xsGo8t2W1IzKqqMuSlAJ8uCDDA2CIyePkkzl2CtPZ6atnSVhn33BaZcZSB42DQNixLxx1tr0KVUoIHARlk3oMNWK1wy/qLrpWUI5TGIGR+KyaU6V9UnN3RKDJ5RMA8rrN7QkNGN577tf+e17Sx4x7gVTwp4vUWyU68hAji5sxrOwyxApW05oQdJLf7XUNFy/4Xxbj8oBhqL7BiWG9VsjJdloWoHoVqVVV4bQeGTChK7h0TSYjAslKRq2FSPCkxkL9ZhhBX0xwWqYqGUrBBZm0mnC1OevebqvNOmDO66r8pJR/n2Kj0PO3Du2A==</ARandomSeedString>
+    <ASHA256String>000006c0c3c982b96bbeabaa836ece4f0b335e409560f1e2613c3dc0fcff7178</ASHA256String>
+    <ASignedBlockID>BKru1gIN0yt+BAnTHbDVjAF0LamYzSM0tSzxtOH9hTI0vbJ2MCoUf7lmXyzPL7nNfBJWNlyvZJJH0u3trkb8QxuiXrFR0UOK6B/IKjGDScV8ReejtfgdC15oQ/3x3fXQpmaBlyrn6yO3iItiOkGSP3zJvYYHdpRjWoNC4bspiBI=</ASignedBlockID>
+    <ASignedDataHash>u9mNp0RIIqp4DpMF33eTpS8fIaEJ6b1Jj0aXAUHXHPCZ+mRWqvZKWKR61fsRnHVX87s06UKssYCf5aI7pWTas3RSZ4d//uGrc0C3IxAIIN+109cfxeeSUISGagLdwIAppaNlh9e5tphgIsCAk4kBAhG+k7LdGnlTIBQ95X1zLd8=</ASignedDataHash>
+    <ASignedSHA256>tUUPdHbs9IScq0oD8V61ZoK7oQuw8hwMdg1pNPlw990kmaWadIPcXzCnwdc/QhVuE2bWDOEcwm9lzDZ0d9tCAFe0nFBGQyikwAD0ecrI/o7d6ObDrNZdMK242OfvLkRYXaFVdam3a4U0LpLyrnEf0kfOD+t61eibDb2XUlMP7oQ=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:13.2</AVerifiedAt>
+    <FDOB>1880.06.27</FDOB>
+    <FFname>Helen</FFname>
+    <FLname>Keller</FLname>
+    <FSSNum>666-45-6789</FSSNum>
+    <GDiag>Arthritis</GDiag>
+    <GRx>Aspirin</GRx>
+    <GTreat>WarmCloths</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>e6c39ea1-227b-4ae7-aa1a-b96b88a5d188</ABlockID>
+    <ABlockNum>22</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:10.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>1a6c90ede9e15ede6a9a30ddc2e94472471d3d9f12df2abdec6bf3d4d4d3deab</ADataHash>
+    <ARandomSeedString>5JJnwl2Yf1WgPaCuwsdPHZC7QTAioRIB4c/tDbm13BLTRhWUAjN7GSzMh7dgLWkVjo4vajYZgoLDYSSfZj380HwC+PiKtYaHGSgf4GJ3elByxZenUQ7YSrhH3Z3gMDjv51onlphHvAhlzdAYvEFGJbcoy9qf+9lRgYu7VbPTm1Uj0W+OhCb6I7Et9EM2F1V8HKlj30GZULTBYnaGgfFnpsDOGjDYJ+TuxUCx/Oz3rCgkpD8hzAaPsoFHlWGBTCzbVLIJkNMLo+sKpZXzzS+DRJc48ZjIxcQXrKBmHftbMMn363Wj5p9L3w5Qfa8efeIY/6oTMjOEpCqU+vLzzVrFSQ==</ARandomSeedString>
+    <ASHA256String>0000706e7e78a2783e3d9db30029ed7d38769c7ee8e5b8f843c7f4e9e69acdaa</ASHA256String>
+    <ASignedBlockID>miOSqkdq07LdiTguFDiR1hI6Q1/ej17QqxAuJzzJ1xu5RVt4nfitOION2x6dyuG/YVdzaxuteW5kB4oHsWCsXt66WNz3WossmkHn3wN1lGchVrkse1ai7LoyYL4rudfxADfJt+HxlyLKYVl1tEnI6bX0tvVc2+U7lnQAN9v58uU=</ASignedBlockID>
+    <ASignedDataHash>QlFJOUQuODAbCpd3AqOcWepitxlybAGhzuZu/awRdGMK4PB6xnhas5AJYezNL5eV+PPh07atzfva43NfIrFmhUJ6LvLebU+h9eq2bQnkm1Hr1TKH4Q7BFin7TcyRqmxVUqd9xfhlk1ORwWOf974CQpU1Eu2muI90MZBAqxLu8Xw=</ASignedDataHash>
+    <ASignedSHA256>CMCSeH7VsJo92k/AtdyYOmI18c4zwdWwfKkHKzemsUhxcbDyvVlFFhuC3GKgokdxrjd45A0EeIQ6nY59kpRooweHTF+AIwxi5nsfgxt16AtoYWpyaK2+Y9RZOwzHb7p84pnElKojZJLaLVo3X2Wg+YUNbdv8WN702h8q9L7diok=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:15.2</AVerifiedAt>
+    <FDOB>1809.02.12</FDOB>
+    <FFname>Abraham</FFname>
+    <FLname>Lincoln</FLname>
+    <FSSNum>444-45-6888</FSSNum>
+    <GDiag>GreviousWound</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>Surgery</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>c476aede-5189-4956-ab13-a8b7c3bdb89f</ABlockID>
+    <ABlockNum>23</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:10.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>2021bcae509e3c02d3b21d45dad93aa8ffecd2ad2d94266cc5308455fab61097</ADataHash>
+    <ARandomSeedString>BSM9rrca9IrB6koBgMR1UNUQ9G21lDa3vS59C9GDOz3aCqtXHmZDoWUoJxzI/tE6GJV69NMpZRMdm3CDmQKzvj5CYTuKe1R6cQkIPzwdN9MtinEmCOYm0jTZ0DXMWGN+tgQo2I8AginsFQ3AEdiGLKcMpEuUb95LbXV2FlsoPfcID5nttbwtuMOC0AORXGPVogpvjOk58RZVE7hIiEXbssADbaD4Y//IRmoSF5hb2TA5cDDZLngYeh6uwBNtLS9GrN9gQEsxQmeplGKAGmjNGw1kv7q93+37H2k9xnPM1aFhfqWkEFFruYTQCjWbpUZWxZP/HaU6Xu1R8MSm25TORA==</ARandomSeedString>
+    <ASHA256String>000053287846d90d98ef2d57dab5a29ee0fc270106ee34e0e53023f11b70c615</ASHA256String>
+    <ASignedBlockID>hj1VAjTwJGAj5Jr81FZklvumMdJ+aZe20DmNhxbXBbkGTrPLHivRNQW1OXDLgtZ3O5npbQerrI6Tuk3hCscVF/FWpB98xpD5AOWhCqIFb/PlRSnAE+2BYxgqw6L5Ldk577cQxQgSFKKgBtP+PL3aOnKYkTZNuTbSO7Vvh9xYOqQ=</ASignedBlockID>
+    <ASignedDataHash>U1jlIntlrbi2twRTPQ/5MrNl3STI0DVX+3sbNcdn3nicwJ4AJs7Ud5rMi8HKkAsYKc6Kbm8XbNdki2skerJDYah9q3iFjxBPVy3ySdVfDDOHKbOvdX8wIkJDMNpjbQoFbdTX8/K/UfgF7IQEh5PnnEnAKoi5bRclvuVaqElyKn4=</ASignedDataHash>
+    <ASignedSHA256>lld4OWigh5fifHel05fbVwHJVB8TI5O+iZdd2m0/fkKlaBQq4UtwEvQhIAC3kh53pZU58il/Cm9Q8RB7UwDXP4JuLgV6D257kUtlg7al1MZuyccBSHnLURPDZxEAR0xkINMbPRrZ5D2ddwbQJrw5bnnFq2L7TgLRCyUbQ36G0lA=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:16.2</AVerifiedAt>
+    <FDOB>1917.05.29</FDOB>
+    <FFname>John</FFname>
+    <FLname>Kennedy</FLname>
+    <FSSNum>333-45-6999</FSSNum>
+    <GDiag>AddisonsDisease</GDiag>
+    <GRx>Steroids</GRx>
+    <GTreat>DrugTherapy</GTreat>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>bdc9e093-b284-409b-b0ef-f0fb54ad5699</ABlockID>
+    <ABlockNum>24</ABlockNum>
+    <ACreatedAt> 2017-10-29.21:07:10.2</ACreatedAt>
+    <ACreatingProcess>Process2</ACreatingProcess>
+    <ADataHash>9ec8632e034549a145e3d82a0a45f4f3900255656d2923f473ffa3a213c474a7</ADataHash>
+    <ARandomSeedString>PFqnzKq/aZoR9asECpohcVmSrrH5kgd/fGKb2sXEoWjt9BglRfKcNEbY7O/g3XcSajUOFBkzzB4B5cIXU+RRnM8DsDSlGkZcsDGeXfYLvtc+QHkrv8sZHXVx7Xgghb/Ry1MkBCsRB8yOGIDCkZr1pZbCXYQbiDS2gg758JFJfCcbS0VV+G6/cpbPfflYuHtSyCYRHmIcs8aGsbGksC7O6M8/TMN1YlLucT/ULNh0emg9cGF8TmJ9YhTh1DurvDoeSx6zEc2TonQ7QZ3+AXkmP/TJn6mbBVKNcyf3kFXHFyXHX8k3bhl21QS5iYqoT8tX/mT+IItApXgdVbXspL5Dcw==</ARandomSeedString>
+    <ASHA256String>0000763e2879b32ed01493f6d4e97a44abac34a2fc20246ea1cd886546596c7c</ASHA256String>
+    <ASignedBlockID>UxnLzV2LPIyldSmRO/acNw5/0NVFlZCD8p2hBXE7um6YeFaAUKTjvXUK5zXOcG6ZQNYlJagTXNfkyUzd2kJKSzEV53X+4Ek+Z06fVHiOa1Ffr+BfSFg/dQiyHizDYPKVdgXhUBVb+Qt70vFuNAfIImx/Y5dq5bsQ11xS20clgdk=</ASignedBlockID>
+    <ASignedDataHash>DHESIgcUILza5yKBAIu8jjydihgWNd5JRXDnmcV5Zn7iwDWmlz143CSbuIVKWrFP2QLnk+fpTSK+qxZHa7uYHD6Rxlg0zRKBxczznX+RaePuhFDucDC9ZTHpjyuSwIBMYpA5Mg72K3ZmPceDyZ8AtAIfUd5ekguMdySnApZLc7M=</ASignedDataHash>
+    <ASignedSHA256>Nom+gI0/zuzrtzNGnlfoyUP1KC3G2hCJxdahH0oo7BbMBuFy3FqEOeT1QgXzTf7UynUwYh1iPGrzXsH1CGQHvfv2nx2GbQXyJyqbxjWGCvUDEQfdnb6cdtcXB87ILh4rlWs3kUC12wmAHV6gwMbPGkv4OS295mPq+EKJEFPlqRk=</ASignedSHA256>
+    <AVerificationProcessID>Process2</AVerificationProcessID>
+    <AVerifiedAt> 2017-10-29.21:07:17.2</AVerifiedAt>
+    <FDOB>1914.11.25</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>DiMaggio</FLname>
+    <FSSNum>111-22-3333</FSSNum>
+    <GDiag>SoreKnees</GDiag>
+    <GRx>Aspirin</GRx>
+    <GTreat>RestFromSports</GTreat>
+</blockRecord>
+</BlockLedger>
